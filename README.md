@@ -2,7 +2,9 @@
 <p align="center"><code>mop</code> is a cross-platform command-line tool designed to clean up those messy CSV column names.</p>
 
 
-![logo](mop_file.png)
+<p align="center">
+  <img src="mop_file.png" alt="logo"/>
+</p>
 
 # Features
 
